@@ -1,0 +1,18 @@
+.navbar-expand-lg{
+	
+	background: brown;
+}
+.navbar-brand {
+    color: white; 
+    pointer-events: none;
+}
+.jumbotron{
+	background: white;
+	alignment-baseline: central;
+
+	width: 40%;
+}
+body{
+
+	background: #F5F3F3;
+}
